@@ -1,0 +1,13 @@
+.palette {
+  width: 100%;
+}
+
+.hue-panel {
+  height: 2rem;
+  width: 100%;
+}
+
+.fsi-panel {
+  height: 100vw;
+  width: 100%;
+}

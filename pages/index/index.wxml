@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="palette">
+    <canvas class="hue-panel" canvas-id="hue-panel"></canvas>
+    <canvas class="fsi-panel" canvas-id="fsi-panel"></canvas>
+    <canvas class="alpha-panel" canvas-id="alpha-panel"></canvas>
+  </view>
+</view>

@@ -1,0 +1,30 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "颜色",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "text": "调色",
+        "iconPath": "images/icon-palette.png",
+        "pagePath": "pages/index/index"
+      },
+      {
+        "text": "配色",
+        "iconPath": "images/icon-tune.png",
+        "pagePath": "pages/index/index"
+      },
+      {
+        "text": "色库",
+        "iconPath": "images/icon-style.png",
+        "pagePath": "pages/index/index"
+      }
+    ]
+  }
+}
